@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2dgamekit",
+"dataUrl": "763533b02bf403d93c0c93c36d29eac3.unityweb",
+"wasmCodeUrl": "a0c423d3fde9c3eaeac61c6e322c6863.unityweb",
+"wasmFrameworkUrl": "a747a579a41a0168bc053826be3d3691.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
